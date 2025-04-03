@@ -96,4 +96,14 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_title=true&custom_title=Languages%20I%20Use" alt="Top Languages" />
 
+
 </div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahmedsaiefkadri/ahmedsaiefkadri/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+
