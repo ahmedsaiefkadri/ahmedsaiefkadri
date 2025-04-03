@@ -73,17 +73,14 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ahmedsayfkadri&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=anuraghazra&theme=tokyonight&hide_border=false&border_radius=10&hide_title=true" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsayfkadri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs,prs&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsayfkadri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_title=true&custom_title=Languages%20I%20Use" alt="Top Languages" />
 
 </div>
-
