@@ -73,19 +73,17 @@
 
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ahmedsaiefkadri&theme=tokyonight&hide_border=false&border_radius=10&exclude_days=Sun,Fri,Sat" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=anuraghazra&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </a>
 
   <br /><br />
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaiefkadri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 
   <br /><br />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaiefkadri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
+
