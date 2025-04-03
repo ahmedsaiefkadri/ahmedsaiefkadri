@@ -33,7 +33,13 @@
 
 ###
 
-<p align="left">I'm ahmed sayf kadri from Tunisia <br><br>- 🔭 I’m an Olympian and a Computer science Major <br>- 📚 I'm currently learning new technologies </p>
+<p align="left">
+  I'm <strong>Ahmed Sayf Kadri</strong> from Tunisia 🇹🇳<br><br>
+  - 🔭 Olympian & Computer Science Major in USA <br>
+  - 💡 Passionate about combining sports and technology<br>
+  - 📚 Currently exploring AI, data science, and app development
+</p>
+
 
 ###
 
