@@ -77,24 +77,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=anuraghazra&theme=tokyonight&hide_border=false&border_radius=10&hide_title=true" alt="GitHub Streak" />
-
-  <br /><br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&hide_title=true&hide=contribs,prs&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
-
-  <br /><br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_title=true&custom_title=Languages%20I%20Use" alt="Top Languages" />
-
-
-</div>
 
 ###
 
